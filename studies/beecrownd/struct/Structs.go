@@ -1,0 +1,1 @@
+// https://blog.logrocket.com/comprehensive-guide-data-structures-go/

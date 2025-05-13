@@ -1,0 +1,1 @@
+// https://www.golang.company/blog/perform-string-concatenation-in-go

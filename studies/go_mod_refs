@@ -1,0 +1,12 @@
+https://go.dev/doc/modules/gomod-ref
+
+
+
+Como depurar em VSCode
+https://stackoverflow.com/questions/52228700/debugging-issue-with-fmt-scanln/71333259
+"console": "integratedTerminal"
+
+Instalar o delve
+https://github.com/go-delve/delve/tree/master/Documentation/installation
+
+https://github.com/golang/vscode-go/blob/master/docs/debugging.md

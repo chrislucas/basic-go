@@ -1,0 +1,1 @@
+// https://dev.to/jpoly1219/structs-methods-and-receivers-in-go-5g4f

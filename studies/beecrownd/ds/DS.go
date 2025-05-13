@@ -1,0 +1,1 @@
+// https://buildsolutions.medium.com/understanding-basic-data-structures-in-go-ea8d18f89c14
